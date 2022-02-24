@@ -1,6 +1,8 @@
 # v a c i o - i n f o r m a t i c o
 
-Hi, I am C.Mirkin, and my blog is vacio-informatico.
+Hi, I am C.Mirkin, and my blog is ![vacio-informatico](https://vacio-informatico.github.io/v-i/).
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40vacio__informatico-red)](https://instagram.com/vacio_informatico)
 
 ## My favorite tools
 
