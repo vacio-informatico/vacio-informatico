@@ -6,7 +6,7 @@ Hi, my name is C.Mirkin and Im a frontend web develoment.
     <summary>
         My blog is vacio-informatico
     </summary>
-    Short notes about programming, gihtub repository is (vacio-informatico.md)[https://github.com/vacio-informatico/vacio-informatico.md]
+    Short notes about programming, gihtub repository is <a href="https://github.com/vacio-informatico/vacio-informatico.md" >vacio-informatico.md</a>
 </details>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40vacio__informatico-red)](https://instagram.com/vacio_informatico)
