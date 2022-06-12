@@ -1,15 +1,10 @@
-# v a c i o - i n f o r m a t i c o
+# C.Mirkin (v a c i o - i n f o r m a t i c o)
 
-Hi, my name is C.Mirkin and Im a frontend web develoment.
+Hi, my name is Ciro and Im a frontend web develoment.
 
-<details>
-    <summary>
-        My blog is vacio-informatico
-    </summary>
-    Short notes about programming, gihtub repository is <a href="https://github.com/vacio-informatico/vacio-informatico.md" >vacio-informatico.md</a>
-</details>
+# My blog
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40vacio__informatico-red)](https://instagram.com/vacio_informatico)
+vacio-informatico has short notes about programming, the gihtub repository is ![vacio-informatico.md](https://github.com/vacio-informatico/vacio-informatico.md) and his Instagram is ![@vacio_informatico](https://www.instagram.com/vacio_informatico/)
 
 ## My favorite tools
 
